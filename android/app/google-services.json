@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "295405833315",
+    "firebase_url": "https://connect-ae27a-default-rtdb.firebaseio.com",
+    "project_id": "connect-ae27a",
+    "storage_bucket": "connect-ae27a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295405833315:android:e49387cc8f4be8aca8fc56",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPM6wK8nk07692m9YKGoL3V9_kgmTMNBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295405833315:android:d025859cc2a8867da8fc56",
+        "android_client_info": {
+          "package_name": "com.example.teast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPM6wK8nk07692m9YKGoL3V9_kgmTMNBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295405833315:android:916a920a60cf0e96a8fc56",
+        "android_client_info": {
+          "package_name": "com.example.threecompleted"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPM6wK8nk07692m9YKGoL3V9_kgmTMNBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295405833315:android:61259aa7734ce4c6a8fc56",
+        "android_client_info": {
+          "package_name": "com.example.urbancul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPM6wK8nk07692m9YKGoL3V9_kgmTMNBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295405833315:android:c9097e6d60b9111da8fc56",
+        "android_client_info": {
+          "package_name": "com.example.urbarculte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPM6wK8nk07692m9YKGoL3V9_kgmTMNBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
