@@ -17,7 +17,11 @@ As the digital landscape for urban culture home salon services continues to evol
 </div>
 
 ## Demo
-[![Watch the video](thumbnail_image_url_here)](video_url_here)
+[![Watch the video]()]([video_url_here](https://drive.google.com/drive/u/1/folders/1zLuvaE19J4LBGDZRvHn-xMVr_M5OCEZ8?q=owner:me%20parent:1zLuvaE19J4LBGDZRvHn-xMVr_M5OCEZ8))
+
+## Release
+[Download the App](https://drive.google.com/drive/u/1/folders/1XPXLHvP36Q6aVR8WTqyYt16awsZOfTxJ)
+
 
 ## Features
 - **Skincare Routine Recording**: Users should be able to log their daily skincare routine, comprising five essential steps: face wash, toner, moisturizer, sunscreen, and lip balm. The interface should be intuitive and user-friendly, allowing users to effortlessly input their routine with minimal friction.
