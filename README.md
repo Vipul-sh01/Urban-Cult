@@ -17,7 +17,8 @@ As the digital landscape for urban culture home salon services continues to evol
 </div>
 
 ## Demo
-[![Watch the video]()]([video_url_here](https://drive.google.com/drive/u/1/folders/1zLuvaE19J4LBGDZRvHn-xMVr_M5OCEZ8?q=owner:me%20parent:1zLuvaE19J4LBGDZRvHn-xMVr_M5OCEZ8))
+[![Watch the video](https://via.placeholder.com/150)](https://drive.google.com/drive/u/1/folders/1zLuvaE19J4LBGDZRvHn-xMVr_M5OCEZ8)
+
 
 ## Release
 [Download the App](https://drive.google.com/drive/u/1/folders/1XPXLHvP36Q6aVR8WTqyYt16awsZOfTxJ)
