@@ -1,16 +1,40 @@
-# urbancul
+## Description
+A brief description of your project.
 
-A new Flutter project.
+## Problem Statement
+As the digital landscape for urban culture home salon services continues to evolve, our app successfully provides convenient skincare solutions. To enhance user engagement and retention, we recognize the need to integrate a new feature that allows users to record their skincare routine seamlessly. This feature aims to increase user time spent on our app while fostering a sense of accomplishment and community among our users.
 
-## Getting Started
+## Tech Stack
+- **Flutter** for building a cross-platform mobile application.
+- **Firebase** for backend services, authentication, and real-time database.
+- **MVVM Architecture** for maintaining a clean and scalable code structure.
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+  <img src="" alt="Post Details 1" width="25%">
+  <img src="" alt="Post Details 2" width="25%">
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Demo
+[![Watch the video](thumbnail_image_url_here)](video_url_here)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- **Skincare Routine Recording**: Users should be able to log their daily skincare routine, comprising five essential steps: face wash, toner, moisturizer, sunscreen, and lip balm. The interface should be intuitive and user-friendly, allowing users to effortlessly input their routine with minimal friction.
+- **Streak Tracking**: A streak mechanism will be integrated to incentivize consistent skincare habits. Users who record their skincare routines daily will maintain a streak. The longer the streak, the more rewards and recognition users will receive.
+
+## Installation
+```sh
+git clone https://github.com/yourusername/repository.git
+cd repository
+flutter pub get
+```
+
+## Usage
+```sh
+flutter run
+```
+
+## Contributing
+Feel free to submit pull requests.
+
