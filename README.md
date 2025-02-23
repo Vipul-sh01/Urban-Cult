@@ -28,11 +28,10 @@ As the digital landscape for urban culture home salon services continues to evol
 - **Skincare Routine Recording**: Users should be able to log their daily skincare routine, comprising five essential steps: face wash, toner, moisturizer, sunscreen, and lip balm. The interface should be intuitive and user-friendly, allowing users to effortlessly input their routine with minimal friction.
 - **Streak Tracking**: A streak mechanism will be integrated to incentivize consistent skincare habits. Users who record their skincare routines daily will maintain a streak. The longer the streak, the more rewards and recognition users will receive.
 
-## Installation
-```sh
-git clone https://github.com/yourusername/repository.git
-cd repository
+git clone https://github.com/Vipul-sh01/Urban-Cult.git
+cd Urban-Cult
 flutter pub get
+
 ```
 
 ## Usage
