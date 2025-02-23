@@ -12,8 +12,8 @@ As the digital landscape for urban culture home salon services continues to evol
 ## Screenshots
 
 <div align="center">
-  <img src="" alt="Post Details 1" width="25%">
-  <img src="" alt="Post Details 2" width="25%">
+  <img src="https://github.com/Vipul-sh01/Urban-Cult/blob/main/2github.jpg" alt="Post Details 1" width="25%">
+  <img src="https://github.com/Vipul-sh01/Urban-Cult/blob/main/3github.jpg" alt="Post Details 2" width="25%">
 </div>
 
 ## Demo
